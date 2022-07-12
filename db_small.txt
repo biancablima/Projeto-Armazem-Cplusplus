@@ -1,0 +1,568 @@
+cir000030,AAA2801P-06 NMBS,circuitos integrados,31,1.85
+cir000060,AD588BQ CER. A.DEVICES,circuitos integrados,17,9.18
+cir000090,AD746JN A.DEVICES,circuitos integrados,7,2.89
+cir000120,AD7510DISD A.DEVICES,circuitos integrados,1,8.52
+cir000150,AD7712AN A.DEVICES,circuitos integrados,4,6.82
+cir000180,ADC0817CCN NATIONAL,circuitos integrados,6,3.84
+cir000210,ADM691AARNZ SMD A.DEVICES,circuitos integrados,2200,3.33
+cir000240,ADXL345BCCZ-RL SMD A.DEVICES,circuitos integrados,15,8.21
+cir000060,AD588BQ CER. A.DEVICES,circuitos integrados,10,9.28
+cir000270,AM26S02PC AMD,circuitos integrados,60,9.21
+cir000300,AM2953ADC CER. AMD,circuitos integrados,19,9.18
+cir000330,AM9016FPC AMD,circuitos integrados,39,8.88
+cir000360,AN1353 MATSUCHITA,circuitos integrados,20,3.23
+cir000390,AN7106K MITSUBICHI,circuitos integrados,13,6.13
+cir000420,APL1087DC-TR SMD SOT-89 ANPEC,circuitos integrados,0,1.69
+cir000450,AT24C04N-10SU-2.7 SMD ATMEL,circuitos integrados,0,9.92
+cir000480,AT29C020-90PI ATMEL,circuitos integrados,90,2.11
+cir000510,AT89S8253-24JU PLCC ATMEL,circuitos integrados,7,4.01
+cir000540,ATMLU118 ATMEL,circuitos integrados,20,6.40
+cir000570,BA532,circuitos integrados,100,0.76
+cir000600,BA15218N SIP,circuitos integrados,3,2.74
+cir000630,CA810QM SID,circuitos integrados,0,2.61
+cir000660,CA3195E RCA,circuitos integrados,1,5.03
+cir000690,CD4011BF CER. TEXAS,circuitos integrados,3500,0.23
+cir000720,CD4029BM2RE CER. ST,circuitos integrados,550,1.75
+cir000750,CD4059AD CER. RCA,circuitos integrados,47,4.47
+cir000780,CD4093BT = HEF4093BT SMD NXP,circuitos integrados,2500,1.27
+cir000810,CD4511B SMD ON,circuitos integrados,45,3.40
+cir000840,CD4557BP = HEF4557BP PHILIPS,circuitos integrados,100,5.92
+cir000870,CMV1020 SMD,circuitos integrados,5,7.63
+cir000630,CA810QM SID,circuitos integrados,10,2.61
+cir000900,CR5228 CHIP-RAIL,circuitos integrados,88,2.48
+cir000930,CY2148-35PC CYPRESS,circuitos integrados,39,5.66
+cir000960,CXK1011P SONY,circuitos integrados,90,1.53
+cir000990,D80C42C NEC,circuitos integrados,0,6.52
+cir001020,D87C51FB C/JAN. INTEL,circuitos integrados,17,5.87
+cir001050,DCP010505BP B.B.,circuitos integrados,2,8.71
+cir001080,DM2502CN NATIONAL,circuitos integrados,30,9.99
+cir001110,DP8390CN NATIONAL,circuitos integrados,20,9.88
+cir001140,DS1210 DALLAS,circuitos integrados,0,1.85
+cir001170,DS1742W-120 DALLAS,circuitos integrados,0,0.93
+cir001200,DS12B887 DALLAS,circuitos integrados,80,8.50
+cir001230,ECA332JPN TEC,circuitos integrados,1,2.51
+cir001260,EPM3064ATC100-10H SMD ALTERA,circuitos integrados,32,7.56
+cir001290,FAN1086CM-3.3V SMD FAIRCHILD,circuitos integrados,20,0.10
+cir001320,FDC92C39BT SMC,circuitos integrados,16,0.14
+cir001350,FT232RL SMD FTDI,circuitos integrados,20,6.82
+cir001380,GM62093A,circuitos integrados,2,5.13
+cir001410,HA1393 HITACHI,circuitos integrados,40,7.19
+cir001440,HCPL090J = HP090J SMD ,circuitos integrados,10,3.85
+cir001470,HD46821P = MC6821P HITACHI,circuitos integrados,0,4.70
+cir001500,HM4864P-2 HITACHI,circuitos integrados,81,2.39
+cir001530,HN27C4096AG-12 HITACHI,circuitos integrados,75,4.89
+cir001560,HT9170D SMD HOLTEK,circuitos integrados,108,8.20
+cir001590,ICE2A365 INFINEON,circuitos integrados,2,8.00
+cir001620,ICM4464M-12 ITAUCOM,circuitos integrados,1,3.60
+cir001650,ID82C54 CERAMICO INTERSIL,circuitos integrados,17,7.49
+cir001680,IM5600CPE INTERSIL,circuitos integrados,11,2.04
+cir001710,IR9022 SHARP,circuitos integrados,90,7.18
+cir001740,ISL6529CBZ-T SMD INTERSIL,circuitos integrados,150,0.40
+cir001770,JCP0035-2 JVC,circuitos integrados,1,1.52
+cir001800,KDN0801,circuitos integrados,1,0.27
+cir001830,L293E ST,circuitos integrados,10,8.24
+cir001860,L8202-1LF SMD QFP ST,circuitos integrados,100,8.01
+cir001890,LA4261 SIP SANYO,circuitos integrados,10,5.81
+cir001920,LA7415 SANYO,circuitos integrados,18,3.29
+cir001950,LB3500,circuitos integrados,0,9.20
+cir001980,LE82G31SLASJ SMD BGA INTEL,circuitos integrados,72,3.50
+cir002010,LH2164-15 SHARP,circuitos integrados,7,6.99
+cir002040,LM239N ST,circuitos integrados,186,0.57
+cir002070,LM318H NATIONAL,circuitos integrados,1,6.72
+cir002100,LM350K ST,circuitos integrados,1,0.11
+cir002130,LM710CP = UA710CP 8 PINOS TEXAS,circuitos integrados,50,7.87
+cir002160,LM1117D-1.8V SMD DPAK TO252 AZ1117D-1.8TRE1,circuitos integrados,0,1.44
+cir002190,LM1951T NATIONAL,circuitos integrados,1,8.49
+cir002220,LM2596S-12V SMD NATIONAL,circuitos integrados,9,6.93
+cir002250,LM2940CS-15 SMD NATIONAL,circuitos integrados,2,0.62
+cir002280,LM7121IM SMD NATIONAL,circuitos integrados,15,5.16
+cir002310,LNK625DG SMD LITEON,circuitos integrados,15,6.40
+cir002340,LR4089B SHARP,circuitos integrados,1,8.45
+cir002370,LSM89444Y SID,circuitos integrados,1,2.20
+cir002400,LTC691CSW SMD LITEON,circuitos integrados,10,3.77
+cir002430,M708LB1 ST,circuitos integrados,430,3.25
+cir002460,M51166P MITSUBICHI,circuitos integrados,4,4.79
+cir002490,M66320FP SMD MITSUBICHI,circuitos integrados,64,5.58
+cir002520,M27C1001-10B1 S/JAN. ST,circuitos integrados,47,6.49
+cir002550,M36W0R6040T7ZAQF SMD BGA ST,circuitos integrados,498,6.19
+cir002580,MAX253CSA SMD MAXIM,circuitos integrados,40,9.56
+cir002610,MAX3051ESA SMD MAXIM,circuitos integrados,25,8.58
+cir002640,MB8265-15 FUJITSU,circuitos integrados,63,1.56
+cir002670,MC813G MOTOROLA,circuitos integrados,1,0.02
+cir002700,MC1377P MOTOROLA,circuitos integrados,47,0.71
+cir002730,MC1596G MOTOROLA,circuitos integrados,18,7.52
+cir002760,MC3423P1 MOTOROLA,circuitos integrados,0,6.06
+cir002790,MC6850P MOTOROLA,circuitos integrados,0,1.92
+cir002820,MC10216L CER. MOTOROLA,circuitos integrados,13,1.85
+cir002850,MC33262P ON,circuitos integrados,0,7.16
+cir002880,MC68452L MOTOROLA,circuitos integrados,31,4.22
+cir002910,MC68HC705JJ7CP MOTOROLA,circuitos integrados,41,1.98
+cir002940,MC26LS32D SMD MOTOROLA,circuitos integrados,140,3.49
+cir002970,MCP6H04-E/SL SMD MICROCHIP,circuitos integrados,142,1.04
+cir003000,MFRC53101TD SMD NXP,circuitos integrados,131,9.04
+cir003030,MK4516N-10 MOSTEK,circuitos integrados,1,9.62
+cir003060,MM5452N NATIONAL,circuitos integrados,4,7.45
+cir003090,MOC3041SR2M SMD FAIRCHILD,circuitos integrados,1500,1.97
+cir003120,MPQ3725 CEN,circuitos integrados,101,6.55
+cir003150,MT8941BP PLCC MITEL,circuitos integrados,10,4.72
+cir003180,M1-76161-5 CER. HARRIS,circuitos integrados,15,5.12
+cir003210,N8T13B SIGNETICS,circuitos integrados,31,2.34
+cir003240,N80C51FA PLCC INTEL,circuitos integrados,2,3.47
+cir003270,NC7SU04M5X SMD FAIRCHILD,circuitos integrados,500,8.83
+cir003300,NE570N = LM570N SIGNETICS,circuitos integrados,1,1.89
+cir003330,NJM4558M SMD JRC,circuitos integrados,2000,3.24
+cir003360,OB2269AP ,circuitos integrados,45,3.73
+cir003390,P4C187-15PC,circuitos integrados,2,3.85
+cir003420,P80C552EBA PLCC PHILIPS,circuitos integrados,120,6.52
+cir003450,P21014-10 INTEL,circuitos integrados,8,3.45
+cir003480,P82C570 PLCC CHIPS,circuitos integrados,1,7.80
+cir003510,PBL3717A ST,circuitos integrados,350,7.40
+cir003540,PCF2112P,circuitos integrados,1,7.60
+cir003570,PIC10F222-I/P MICROCHIP,circuitos integrados,12,0.32
+cir003600,PIC16F628A-I/SS SMD MICROCHIP,circuitos integrados,0,9.17
+cir003630,PIC18F2480-I/SO  SMD MICROCHIP,circuitos integrados,3,2.93
+cir003660,PP34C112 AMI,circuitos integrados,6,2.76
+cir003690,R6507-31 ROCKWELL,circuitos integrados,0,7.77
+cir003720,RG82845E-SL66N SMD BGA INTEL,circuitos integrados,17,2.37
+cir003750,RTL8111DL SMD QFP RELTEK,circuitos integrados,100,2.39
+cir003780,SA615D SMD PHILIPS,circuitos integrados,50,0.86
+cir003810,SC468AYB SMD IMI,circuitos integrados,20,3.08
+cir003840,SCX6B48EMG PLCC NATIONAL,circuitos integrados,10,2.62
+cir003870,SFH6156-2T SMD VISHAY,circuitos integrados,50,7.50
+cir003900,SKY77547-11 SMD SKYWORKS,circuitos integrados,0,9.73
+cir003930,SOC560A,circuitos integrados,8,9.86
+cir003960,SSI540-2CP SSI,circuitos integrados,6,7.98
+cir003990,STK5342,circuitos integrados,2,2.55
+cir004020,SV92A35V2-V16-DT SMD TSSOP,circuitos integrados,310,0.42
+cir004050,TA7204P SIP TOSHIBA,circuitos integrados,0,0.32
+cir004080,TA8429H TOSHIBA,circuitos integrados,0,2.04
+cir004110,TC7S14FU SMD TOSHIBA,circuitos integrados,1492,1.73
+cir004140,TC511664BJ-80 SOJ TOSHIBA,circuitos integrados,16,3.78
+cir004170,TCM2103AN TEXAS,circuitos integrados,9,2.35
+cir004200,TDA1522 PHILIPS,circuitos integrados,2,0.89
+cir004230,TDA4856 PHILIPS,circuitos integrados,6,3.80
+cir004260,TDA8359J PHILIPS,circuitos integrados,3,1.26
+cir004290,TDE1898RFP SMD ST,circuitos integrados,0,6.50
+cir004320,TIL115 POLITRONIC,circuitos integrados,26,9.14
+cir004350,TL430C TO92 TEXAS,circuitos integrados,76,1.06
+cir004380,TLC555CD SMD TEXAS,circuitos integrados,52,0.16
+cir004410,TLP627-1 TOSHIBA,circuitos integrados,1,2.34
+cir004440,TMS27C010A-10 - 27C010-12 - 27C010-15 TEXAS,circuitos integrados,150,0.29
+cir004470,TOP222PN LITEON,circuitos integrados,49,7.45
+cir004500,TPA3123D2PWP SMD TSSOP TEXAS,circuitos integrados,50,7.14
+cir004530,TR1865PL-02 WDC,circuitos integrados,4,7.70
+cir004560,UA9667DC CER. FAIRCHILD,circuitos integrados,3,4.93
+cir004590,UC5170CQ PLCC UNITRODE,circuitos integrados,3,7.84
+cir004620,ULN2004AFW SMD TOSHIBA,circuitos integrados,2500,6.35
+cir004650,UM9090 UMC,circuitos integrados,1,6.41
+cir004680,UPA2003C NEC,circuitos integrados,11,8.44
+cir004710,UPB2202D CER. NEC,circuitos integrados,5,9.43
+cir004740,UPC258C NEC,circuitos integrados,7,7.53
+cir004770,UPC1187V NEC,circuitos integrados,5,5.65
+cir004800,UPD4364CX-10L NEC,circuitos integrados,18,0.82
+cir004830,UPD70325L-10 PLCC NEC,circuitos integrados,4,2.64
+cir004860,V53C104AP80 ,circuitos integrados,5,0.73
+cir004890,VT82C416 SMD VIA,circuitos integrados,15,8.30
+cir004920,W89C90 WINBOND,circuitos integrados,4,3.93
+cir004950,WD11C00PE WDC,circuitos integrados,19,3.31
+cir004980,X28HC64P-12 XICOR,circuitos integrados,0,8.74
+cir005010,XR2211N CER. EXAR,circuitos integrados,14,6.93
+cir005040,Z8030PC AMD,circuitos integrados,2,2.34
+cir005070,ZC430797MFN PLCC MOTOROLA,circuitos integrados,16,3.70
+cir005100,14312 TO220 NEC,circuitos integrados,5,6.20
+cir005130,24WC02P CSI,circuitos integrados,52,3.08
+cir005160,4N25 PULL,circuitos integrados,200,9.90
+cir005190,54F242AJ CER. MOTOROLA,circuitos integrados,6,7.08
+cir005220,54LS08J CER. TEXAS,circuitos integrados,3,1.43
+cir005250,54S64J CER. TEXAS,circuitos integrados,61,4.88
+cir005280,70966FB NXP,circuitos integrados,11,5.27
+cir005310,7426N TEXAS,circuitos integrados,29,6.14
+cir005340,7491N,circuitos integrados,1,3.00
+cir005370,74163N TEXAS,circuitos integrados,100,2.97
+cir005400,74290N TEXAS,circuitos integrados,150,5.71
+cir005430,74ACT14D SMD FAIRCHILD,circuitos integrados,560,0.46
+cir005460,74ALS01 SMD LARGO TEXAS,circuitos integrados,86,1.90
+cir005490,74C02N NATIONAL,circuitos integrados,11,4.19
+cir005520,74CBTD3861PWR SMD TSSOP TEXAS,circuitos integrados,8000,8.53
+cir005550,74F157N,circuitos integrados,10,6.93
+cir005580,74F543PC FINO SIGNETICS,circuitos integrados,29,6.12
+cir005610,74H108N NATIONAL,circuitos integrados,45,1.54
+cir005640,74HC30P HITACHI,circuitos integrados,1550,3.38
+cir005670,74HC132N NATIONAL,circuitos integrados,180,9.38
+cir005700,74HC166D SMD PHILIPS,circuitos integrados,45,9.45
+cir005730,74HC280N TEXAS,circuitos integrados,119,2.93
+cir005760,74HC4002D SMD TSSOP PHILIPS,circuitos integrados,685,0.98
+cir005790,74HC4316WM SMD,circuitos integrados,2,0.47
+cir005820,74HCT132D SMD,circuitos integrados,0,3.35
+cir005850,74HCT540N TEXAS,circuitos integrados,3,3.93
+cir005880,74LCX244DW SMD FAIRCHILD,circuitos integrados,32,6.08
+cir005910,74LS37N TEXAS,circuitos integrados,150,6.63
+cir005940,74LS125AN TEXAS/FSC,circuitos integrados,550,9.35
+cir005970,74LS173N TEXAS/FSC.,circuitos integrados,700,2.01
+cir006000,74LS298N,circuitos integrados,10,3.20
+cir006030,74LS541N,circuitos integrados,0,1.19
+cir006060,74LVC08AD SMD PHILIPS,circuitos integrados,250,1.75
+cir006090,74LVX273MW SMD NATIONAL,circuitos integrados,13,7.89
+cir006120,74S175N TEXAS,circuitos integrados,21,9.66
+cir006150,75108AN TEXAS,circuitos integrados,150,3.56
+cir006180,75189N = MC1489N TEXAS,circuitos integrados,250,4.00
+cir006210,7808CK TO3 ST,circuitos integrados,2,9.91
+cir006240,78L33 TO92,circuitos integrados,0,7.05
+cir006270,79L12 TO92,circuitos integrados,400,8.83
+cir006300,93C66LM8 SMD NATIONAL,circuitos integrados,80,3.48
+con006330,5PF/50V,condensador cerAmico,200,3.30
+con006360,27PF/3KV NPO EPOX AVX,condensador cerAmico,1100,4.71
+con006390,82PF/100V THONSON,condensador cerAmico,4500,0.21
+con006420,240PF/4KV EPOX,condensador cerAmico,1000,2.34
+con006450,560PF/2KV EPOX,condensador cerAmico,1000,4.42
+con006480,1K5/2KV EPX TDK PRE,condensador cerAmico,1000,9.84
+con006510,2K7/3KV EPOX,condensador cerAmico,100,9.69
+con006540,10K/50V,condensador cerAmico,3000,9.22
+con006570,100K/500V EPOX THOMSON,condensador cerAmico,600,8.57
+con006600,1UF/100V RD. 85 5X11MM,condensador eletrolitico,10000,4.62
+con006630,2.2UF/63V RD. BIPOLAR,condensador eletrolitico,1,0.39
+con006660,4.7UF/35V RD. 105 5X11MM SANSUNG FITADO,condensador eletrolitico,8300,9.23
+con006690,6.8UF/63V RD. 85 S.037 PHILIPS/SIEMENS,condensador eletrolitico,700,6.94
+con006720,10UF/50V RD. 105 8X12MM PANASONIC,condensador eletrolitico,0,8.17
+con006750,15UF/25V RD. 85 CHEMICON,condensador eletrolitico,600,8.46
+con006780,22UF/50V RD. 105 6X6MM MITA,condensador eletrolitico,50,2.07
+con006810,22UF/450V RD. 85,condensador eletrolitico,0,9.34
+con006840,47UF/6.3V RD. 85 4X7MM,condensador eletrolitico,300,0.58
+con006870,47UF/63V RD. 85 BIPOLAR ICOTRON,condensador eletrolitico,500,5.21
+con006900,47UF/450V SNAP-IN 85 22X25MM S.B43502 EPCOS,condensador eletrolitico,272,9.48
+con006930,68UF/450V SNAP-IN 85 22X20MM SAMYOUNG,condensador eletrolitico,600,5.40
+con006960,100UF/25V RD. 85 S.B41827 5X11MM EPCOS,condensador eletrolitico,200,6.36
+con006990,100UF/100V RD. 85 10X20MM SANSUNG,condensador eletrolitico,1300,6.19
+con007020,120UF/450V SNAP-IN 105 25X30MM SAMYOUNG,condensador eletrolitico,45,4.19
+con007050,220UF/6.3V SMD 105 6.3X6.1MM CHEMICON,condensador eletrolitico,2500,7.89
+con007080,220UF/35V RD. 105 10X20MM SAMWHA FITADO,condensador eletrolitico,4000,5.21
+con007110,220UF/450V SNAP-IN 85 25X50MM SAMWHA,condensador eletrolitico,240,2.14
+con007140,330UF/35V RD. 105 12X12.5MM ELITE,condensador eletrolitico,1000,4.53
+con007170,390UF/80V RD. 105 12X35MM PRE ELITE,condensador eletrolitico,100,7.71
+con007200,470UF/16V RD. 105 8X9MM ELITE,condensador eletrolitico,1000,2.81
+con007230,470UF/50V RD. 105 10X20MM S.B41851 EPCOS,condensador eletrolitico,34,5.16
+con007260,560UF/35V RD. 105 8X25MM ELITE,condensador eletrolitico,1300,0.28
+con007290,800UF/250V GIGA 85 50X100MM MALLORY,condensador eletrolitico,1,5.28
+con007320,1000UF/16V RD. 105 10X20MM S.B41858 PRE EPCOS,condensador eletrolitico,3000,1.67
+con007350,1000UF/400V GIGA 105 65X70MM NICHICON,condensador eletrolitico,26,1.65
+con007380,1500UF/375V GIGA 85 65X105MM PHILIPS,condensador eletrolitico,1,2.38
+con007410,2200UF/25V RD. 85 16X20MM S.B41821 EPCOS PRE,condensador eletrolitico,150,1.16
+con007440,2500UF/70V SNAP-IN  85 35X40MM S.B41840 EPCOS,condensador eletrolitico,1200,6.20
+con007470,3300UF/100V GIGA 85 35X105MM S.B41875 SIEMENS,condensador eletrolitico,1,4.90
+con007500,4700UF/16V AXIAL S.92000 ICOTRON,condensador eletrolitico,1900,5.79
+con007530,4700UF/400V GIGA 85 75X105MM S.B43875 EPCOS PARAFUSO BASE,condensador eletrolitico,16,0.24
+con007560,6800UF/110V SNAP-IN 85 35X45MM S.41845 EPCOS,condensador eletrolitico,0,4.13
+con007590,10000UF/80V SNAP-IN 85 EPCOS,condensador eletrolitico,10,5.70
+con007620,56000UF/80V GIGA 105 75X140MM CHEMICON,condensador eletrolitico,2,9.65
+con007650,50PF/2.5KV-5KV 10% CASTANHA ICL,condensador mica prata,5,9.09
+con007680,200PF/100V 5% ICL,condensador mica prata,300,3.75
+con007710,600PF/1.5KV 5% ICL,condensador mica prata,300,0.62
+con007740,4K7/2.5KV 5% ICL,condensador mica prata,2,6.91
+con007770,10PF/100V VP32BA100JB VITRAMON,condensador multicamada,1000,2.57
+con007800,1K5/63V,condensador multicamada,700,5.62
+con007830,220K/50V VP41BY224MA VITRAMON,condensador multicamada,700,5.21
+con007860,3.9PF/50V 0805 SMD,condensador multicamada smd,1500,0.94
+con007890,33PF/50V 0603 5% NPO SMD EPCOS ,condensador multicamada smd,4000,3.54
+con007920,330PF/50V 0805 10% X7R SMD PHYCOMP,condensador multicamada smd,80000,9.04
+con007950,2K7/500V 1206 20% Y5V SMD 501R18W272MV4E JOHANSON,condensador multicamada smd,249000,4.90
+con007980,22K/25V 0402 10% X7R SMD PHYCOMP,condensador multicamada smd,65000,2.02
+con008010,100K/50V 1210 20% Z5U SMD AVX,condensador multicamada smd,4000,0.44
+con008040,1UF/16V 0603 10% Y5V SMD SKYWEEL/FENGHUA/SANSUNG,condensador multicamada smd,12000,5.26
+con008070,4.7UF/50V 1206 10% X5R SMD PHILIPS,condensador multicamada smd,800,1.27
+con008100,6UF/250V FIO HANDING,condensador do motor monofasico,40,8.94
+con008130,30UF/400V FASTON JL,condensador do motor monofasico,15,1.40
+con008160,100UF/250VAC S.B32361-A2107-J050 EPCOS PERMANENTE,condensador do motor monofasico,70,5.74
+con008190,2.7PF/100V NPO PHILIPS,condensador plate,28000,2.12
+con008220,1K/630V RIFA,condensador poliester,50,3.37
+con008250,2K7/63V S.5020,condensador poliester,150,7.86
+con008280,5K6/400V S.368,condensador poliester,3,8.73
+con008310,10K/400V MARRON,condensador poliester,7500,0.87
+con008340,15K/400V S.5450,condensador poliester,500,6.31
+con008370,22K/630V TAF ICOTRON,condensador poliester,500,4.61
+con008400,39K/250V S.369 PHILIPS,condensador poliester,700,9.62
+con008430,56K/100V S.366,condensador poliester,150,3.31
+con008460,100K/100V MARRON,condensador poliester,9800,5.43
+con008490,100K/400V S.368 PHILIPS,condensador poliester,90,4.03
+con008520,180K/100V S.366 PHILIPS,condensador poliester,4,5.48
+con008550,220K/400V AXIAL S.5200 ICOTRON,condensador poliester,700,7.19
+con008580,330K/275V X2 SUPRESSOR 23MM DAIN,condensador poliester,3000,1.11
+con008610,470K/160V EPCOS,condensador poliester,50,8.09
+con008640,560K/100V S.344 PHILIPS,condensador poliester,500,5.13
+con008670,820K/305V X2 SUPRESSOR 23MM S.B32923 EPCOS,condensador poliester,800,9.29
+con008700,1UF/1000V S.B32656 EPCOS,condensador poliester,0,5.84
+con008730,3.3UF/100V S.B32592 EPCOS,condensador poliester,50,5.84
+con008760,0.1UF/35V GOTA,condensador tantalo,3000,0.75
+con008790,4.7UF/10V GOTA,condensador tantalo,100,7.23
+con008820,10UF/20V AXIAL SPRAGUE,condensador tantalo,2900,6.77
+con008850,22UF/16V CASE B SMD NICHICOM,condensador tantalo,1000,2.46
+con008880,47UF/6.3V CASE B SMD,condensador tantalo,30,0.58
+con008910,100UF/4V CADE B SMD,condensador tantalo,70,3.84
+con008940,220UF/10V AXIAL,condensador tantalo,40,9.97
+cha008970,CHAVE TP32 APEM2 SMD,chaves,220,6.68
+cri009000,3.6864MHZ 49U ,cristal,2300,1.31
+cri009030,8.064KHZ 49U ,cristal,300,6.84
+cri009060,14.3024MHZ 49U,cristal,22,2.68
+cri009090,18.000MHZ 49U,cristal,100,0.66
+cri009120,24.576MHZ 49S,cristal,2500,1.59
+cri009150,32.768KHZ SMD,cristal,112,7.57
+cri009180,101.6667MHZ 49U,cristal,28,8.37
+con009210,CONECTOR ECH350V-02P MACHO 180 DINKLE,conectores,500,0.89
+con009240,CONECTOR 2ESDV-02P FEMEA DINKLE,conectores,500,1.52
+con009270,CONECTOR EURO 48PINOS MACHO 90 ,conectores,36,5.22
+con009300,CONECTOR KK 2501 7VIAS MACHO 2.54MM 180,conectores,500,5.21
+con009330,CONECTOR KK 2512 10VIAS MACHO 2.54MM 180,conectores,1500,0.54
+con009360,CONECTOR KK 3962 7VIAS FEMEA 3.96MM,conectores,47,1.63
+con009390,BP5041-1 ROHM,conversor DC/DC,8,0.30
+dio009420,AAZ15,diodo,149,3.46
+dio009450,BA779-GS08 SMD SOT23 VISHAY,diodo,3000,1.15
+dio009480,BAT43WS-7-F SMD SOD-323,diodo,13900,7.52
+dio009510,BYQ28E-200 PHILIPS,diodo,350,0.92
+dio009540,BYW51-150 ST,diodo,73,0.95
+dio009570,BZT03C220V PHILIPS,diodo,35,3.17
+dio009600,BZV85C30V PHILIPS,diodo,13,3.84
+dio009630,BZX79C3V9 PHILIPS/ROHM,diodo,8500,0.15
+dio009660,BZX79C75V PHILIPS,diodo,50,3.62
+dio009690,BZX384C3V9 SMD SOD323 NXP = PDZ3.9B,diodo,300,1.18
+dio009720,DSEP30-06A 30AMP - 600V DIODO RAPIDO PULL,diodo,1,0.50
+dio009750,FEP16BT 16AMP - 100V,diodo,2,4.65
+dio009780,HSMP3890-TR1 SMD SOT23 HP,diodo,3000,6.31
+dio009810,MBR1645G KA 16AMP - 45V DIODO SCHOTKKY ON,diodo,800,0.89
+dio009840,MR752 MOTOROLA,diodo,0,7.60
+dio009870,MUR2020C,diodo,0,2.73
+dio009900,P6KE16A,diodo,100,0.20
+dio009930,PMEG4010EH 1AMP - 40V DIODO SCHOTTKY SMD SOD-123 NXP,diodo,3000,4.06
+dio009960,RLZTE1124B 24V 500MW SMD MINIMELF,diodo,6250,2.51
+dio009990,SB290 = MBR290 2AMP - 90V DIODO SCHOTTKY ,diodo,4300,4.20
+dio010020,SMAJ6.0A-TR SMD,diodo,100,3.32
+dio009900,P6KE16A,diodo,120,0.22
+dio010050,STTA1206D 12AMP - 600V DIODO ULTRA FAST,diodo,495,4.50
+dio010080,SK13 = SB130 = MBRS130LT3 SMD 1AMP - 30V DIODO SCHOTTKY,diodo,2000,4.38
+dio010110,SKR12/02 12AMP - 200V SEMIKRON,diodo,25,6.33
+dio010140,TPSMA36A/13 SMD SMA VISHAY,diodo,15000,6.55
+dio010170,ZPY3.9V 1W ITT,diodo,6560,5.85
+dio010200,1.5KE39A ST,diodo,5150,0.47
+dio010230,1N757A 9V1 1/2W,diodo,1000,2.16
+dio010260,1N3209 MOTOROLA,diodo,13,9.34
+dio010290,1N4148WS-V-GS08 SOD-323 SMD VISHAY,diodo,0,6.07
+dio010320,1N4746A 18V 1W = 192-180 THONSON,diodo,1000,6.85
+dio010350,1N5250B 20V 500MW MOTOROLA,diodo,3000,7.02
+dio010380,1N5379B 100V 5W,diodo,700,1.33
+dio010410,1N5822,diodo,500,8.63
+dio010440,30CPF06 30AMP - 600V DIODO RAPIDO TO247 IR,diodo,500,5.22
+dio010470,KBP06G 1.5AMP - 600V ,diodo,0,1.00
+dio010500,GBPW2506W 25AMP - 600V PCI,diodo,230,5.33
+dio010530,SKB25/08 25AMP - 800V SEMIKRON,diodo,1,2.00
+dio010560,W08 1AMP - 800V,diodo,500,7.90
+dis010590,ENCODER S/CHAVE MODELO-02 G.H,display,1200,4.68
+led010620,LED 3MM VERDE DIFUSO,led,4500,1.15
+led010650,LED 5MM UV ROXO 300 A 400MCD 3.2 A 3.4V,led,14000,1.71
+led010680,LED VERMELHO 1305 SMD SML-811UTT86 ROHM,led,3000,0.61
+fus010710,500MA 125V 1206 SMD,fusivel smd,20000,9.60
+fus010740,1812L260MR 2.6AMP 6V 1812 SMD LITTELFUSE,fusivel resetavel,3190,3.58
+fus010770,6.3AMP 125V ,fusivel vidro,400,0.37
+fus010800,5AMP 250V RETARDO PORCELANA LITTELFUSE 0215005.MXP,fusivel retardo,3000,8.22
+fus010830,1.6AMP MP16,fusivel daito,1,8.76
+mic010860,3.15AMP 250V BUSSMANN ,micro fusivel quadrado,12000,9.45
+bat010890,CR2032 3V,bateria,20000,0.47
+dio010920,BSTN49B60GY SCR SIEMENS,diodo,3,9.78
+dio010950,CM400HC6-24NFM 400AMP - 1200V IGBT MITSUBISHI,diodo,1,9.38
+dio010980,F1827SD1600,diodo,1,4.04
+dio011010,MG100J2YS1 100AMP - 600V IGBT TOSHIBA,diodo,26,7.65
+dio011040,PT151S8 150AMP - 800V PONTE RET.TRIFASICA RUI,diodo,34,4.10
+dio011070,SKKH106/16E 106AMP - 1600V TIRISTOR SEMIKRON,diodo,0,1.37
+dio011100,MCD95-12 95A - 1200V SCR,diodo,1,1.38
+dio011130,SKM75GAL123D 75AMP - 1200V IGBT SEMIKRON,diodo,3,7.53
+dio011160,SKKT19/08E 18AMP - 800V SCR SEMIKRON,diodo,0,9.47
+dio011190,SKKT330/12E 330AMP - 1200V SCR SEMIKRON,diodo,1,0.17
+dio011220,W4DC105PB 100AMP - 1200V SCR RICHARDSON ELECTRONICS,diodo,60,4.06
+dio011250,2MBI300VJ-120-50 300AMP - 1200V IGBT FUJI,diodo,4,8.43
+dio011280,12-7132000-00 200AMP - 600V TRANSISTOR TOSHIBA,diodo,5,7.33
+bob011310,2.2UH 2.5AMP SMD,bobina,2000,6.48
+bob011340,4.7UH 3AMP 7X7X3MM SMD,bobina,300,0.16
+bob011370,12UH 10MM AXIAL,bobina,200,2.71
+bob011400,47UH 1.8AMP SMD DO3316P-473MLB,bobina,24,5.46
+bob011430,120R 1812 SMD ,bobina,1500,9.52
+bob011460,680NH 530MA AXIAL S.B78108-T3681-K EPCOS,bobina,4800,2.15
+pot011490,100KB LINEAR DUPLO S/CHAVE L20,potenciometro,300,1.27
+pot011520,50R 534 10VOLTAS SPECTROL,potenciometro,0,5.00
+pot011550,2K5 2W EIXO CURTO METAL FE-AD,potenciometro fio,12,4.34
+pot011580,4K 4W FE-AD,potenciometro fio,3,2.42
+pot011610,20K 4W DUPLO FE-AD,potenciometro fio,2,1.85
+rel011640,CPC1017N SMD IXYS,rele,70,1.97
+rel011670,JZC-33F-012-HSL 12V 10AMP 4 TERMINAL,rele,50000,3.04
+rel011700,PLED24VAC WEIDMULLER,rele,15,3.03
+rel011730,SH1NAC-5V-5VDC METALTEX,rele,10,7.81
+rel011760,ZK900002 SCHRACK,rele,164,0.02
+mot011790,GM9214E091 12V 34RPM PITTMAN,motor,700,5.50
+ter011820,NTC2R SL32 2R025,termistancia,0,3.47
+ter011850,NTC33R 15MM EPCOS,termistancia,0,7.79
+ter011880,MF-RX250 2.5AMP - 60V BOURNS,termistancia,500,6.12
+tra011910,AP9T18GH MOSFET N 38AMP - 20V SMD DPAK TO252,transistor,300,3.15
+tra011940,AO4411 MOSFET P 8AMP - 30V SMD ALPHA,transistor,1300,4.37
+tra011970,ASZ18,transistor,1,2.39
+tra012000,BC337-25 FAIRCHILD,transistor,4000,7.16
+tra012030,BC639,transistor,100,9.36
+tra012060,BCR133-E6327 SMD SOT23 INFINEON,transistor,1500,9.48
+tra012090,BD135-16 ON,transistor,250,0.57
+tra012120,BD680A,transistor,4,2.10
+tra012150,BF181 PHILIPS,transistor,20,0.63
+tra012180,BF819,transistor,2,2.86
+tra012210,BFW61 PHILIPS,transistor,204,6.53
+tra012240,BLV57 PHILIPS,transistor,3,5.84
+tra012270,BSW68A PHILIPS,transistor,20,1.90
+tra012300,BT169D SCR 800MA - 400V NXP,transistor,1300,2.69
+tra012330,BU808DFI ST,transistor,0,5.74
+tra012360,BUX86,transistor,9,5.62
+tra012390,CLA50E1200HB SCR 50AMP 1200V  IXYS PULL USADO,transistor,28,1.32
+tra012420,EC103B SCR 800MA - 200V TO92 TECOR,transistor,54,8.30
+tra012450,FDD6670A MOSFET N 66AMP - 30V SMD DPAK FSC,transistor,170,6.40
+tra012480,FQA13N80 MOSFET N 12.6AMP - 800V TO247 FSC,transistor,30,6.96
+tra012510,HEPF2005 MOTOROLA,transistor,3,5.01
+tra012540,IRF420 TO3 IR,transistor,4,1.26
+tra012570,IRF3415 IR,transistor,3,7.06
+tra012600,IRFD210 IR,transistor,0,2.24
+tra012630,IRFU220N MOSFET N 5AMP - 200V IR,transistor,75,4.69
+tra012660,IRLD024 IR MOSFET N ,transistor,70,6.04
+tra012690,M9204 MOTOROLA,transistor,45,7.78
+tra012720,MJ900 MOTOROLA,transistor,5,2.76
+tra012750,MJE172G ON,transistor,2500,7.37
+tra012780,MMBTA92 = KST92TF = MPSA92 SMD SOT23 SANSUNG,transistor,14,6.25
+tra012810,MRF174,transistor,1,8.77
+tra012840,MTP50N06V MOTOROLA,transistor,0,9.66
+tra012870,P2003EVG MOSFET P 9AMP - 30V SMD NIKO-SEM,transistor,7,5.16
+tra012900,Q4004F31 TRIAC 4AMP 400V TECCOR,transistor,0,7.80
+tra012930,SI2301BDS MOSFET P 2.2AMP - 20V SMD SOT23,transistor,200,9.20
+tra012960,SZA243-1 METAL. MOTOROLA,transistor,29,5.65
+tra012990,TIR202D TEXAS,transistor,7,3.51
+tra013020,TIP105 TEXAS,transistor,1600,6.60
+tra013050,TK12A50D MOSFET N 12AMP - 500V ISOLADO TOSHIBA = 12N50,transistor,446,8.22
+tra013080,STF7NM60N MOSFET N 4.7AMP - 600V,transistor,50,6.97
+tra013110,SUD40N06-25 SMD DPAK TO252,transistor,0,5.65
+tra013140,2N709,transistor,50,5.75
+tra013170,2N2222A = PN2222A PLAS.,transistor,2500,8.93
+tra013200,2N3109 SGS,transistor,18,7.29
+tra013230,2N3735 RAYTEON,transistor,1,5.55
+tra013260,2N4188 NJS,transistor,10,0.52
+tra013290,2N4904,transistor,2,6.04
+tra013320,2N5446 TRIAC 40AMP - 600V,transistor,3,8.54
+tra013350,2N6039,transistor,1,8.51
+tra013380,2N6514 SID,transistor,3,5.77
+tra013410,2SA353 HITACHI,transistor,0,6.92
+tra013440,2SA1152,transistor,43,9.13
+tra013470,2SA1952 SMD,transistor,95,8.66
+tra013500,2SB861,transistor,20,7.25
+tra013530,2SC144 = DTC144EUA SMD SOT23 ROHM,transistor,1400,1.86
+tra013560,2SC1222,transistor,0,8.68
+tra013590,2SC1893 NEC,transistor,56,7.65
+tra013620,2SC2570 NEC,transistor,2400,0.47
+tra013650,2SC3620,transistor,44,7.59
+tra013680,2SC5027,transistor,745,4.12
+tra013710,2SD143 = DTD143EK SMD SOT23 ROHM,transistor,2400,4.67
+tra013740,2SD852 NEC,transistor,1,3.60
+tra013770,2SD1933 ISOLADO,transistor,3,9.04
+tra013800,2SK699 NEC,transistor,1,8.10
+tra013830,2SK2847 TOSHIBA,transistor,1,2.51
+tra013860,H1012 SMD PULSE,transformador,44,5.06
+ter013890,TERMOSTATO 70 400V,termostato,0,4.19
+Pot013920,10R 3250W BOURNS,potenciometro Trimpot,62,7.78
+Pot013950,50K 3299W BOURNS,potenciometro Trimpot,40,9.08
+Pot013980,20K 3386H,potenciometro Trimpot,60,4.05
+Pot014010,10K MINI HORIZONTAL 6MM ACP,potenciometro Trimpot mini,500,6.37
+Pot014040,500R MINI VERTICAL HDK,potenciometro Trimpot vertical,33000,9.26
+Pot014070,220R HORIZONTAL C/B. CONSTANTA,potenciometro Trimpot horizontal,640,1.70
+Pot014100,330R VERTICAL C/BOTAO,potenciometro Trimpot vertical BOTAO,50,5.98
+Pot014130,1M VERTICAL C/BOTAO CONSTANTA,potenciometro Trimpot vertical BOTAO,7,7.81
+Pot014160,250K 53P SPECTROL,potenciometro Trimpot diversos,15,4.43
+red014190,2K2 9PINOS,rede resistencia,1,4.78
+red014220,18K 9PINOS,rede resistencia,400,9.59
+soq014250,SOQUETE 84PINOS PLCC,soquete,100,7.48
+sen014280,RPR359F ROHM,sensor,1000,3.18
+fus014310,1R0 5% NFR25F PHILIPS,fusistor,2000,9.75
+res014340,1R5 1206 5% SMD,resistencia smd,11000,9.51
+res014370,10R 0805 5% SMD,resistencia smd,100000,2.15
+res014400,27R4 0603 1% SMD,resistencia smd,3300,7.24
+res014430,56R 1206 5% SMD,resistencia smd,2500,9.21
+res014460,100R 0603 5% SMD,resistencia smd,2000,8.79
+res014490,220R 0603 5% SMD,resistencia smd,210000,2.04
+res014520,470R 0805 5% SMD,resistencia smd,17000,1.09
+res014550,1K1 1206 1% SMD,resistencia smd,5000,2.94
+res014580,2K 0603 1% SMD,resistencia smd,10000,1.43
+res014610,3K01 1206 1% SMD,resistencia smd,5000,0.13
+res014640,5K1 0603 5% SMD,resistencia smd,15000,5.93
+res014670,8K2 0603 5% SMD,resistencia smd,45000,7.18
+res014700,15K 0402 5% SMD,resistencia smd,2000,7.88
+res014730,27K4 0805 1% SMD,resistencia smd,3000,1.63
+res014760,56K 0603 5% SMD,resistencia smd,5000,5.37
+res014790,120K 0603 1% SMD,resistencia smd,2600,4.11
+res014820,270K 0805 1% SMD,resistencia smd,5000,0.09
+res014850,820K 1206 1% SMD FENGHUA,resistencia smd,69000,8.43
+res014880,220R 1/6W 5%,resistencia 1/6W,4500,5.94
+res014910,120K 1/6W 5%,resistencia 1/6W,6000,0.54
+res014940,649R 1/8W 1%,resistencia 1/8W,2000,1.36
+res014970,4K87 18W 1%,resistencia 1/8W,5000,5.78
+res015000,82K 1/8W 1%,resistencia 1/8W,0,9.99
+res015030,27R 1/8W 5%,resistencia 1/8W,100,9.64
+res015060,3K 1/8W 5%,resistencia 1/8W,150,5.67
+res015090,820K 1/8W 5%,resistencia 1/8W,300,5.32
+res015120,121R 1/2W 1% SFR16S,resistencia 1/2W,5000,7.95
+res015150,10K 1/2W 1%,resistencia 1/2W,2,4.09
+res015180,1M5 1/2W 5% SFR25H,resistencia 1/2W,500,3.90
+res015210,2R0 2W 5% AXIAL PORCELANA PANASONIC,resistencia fio 2W,2000,7.90
+res015240,910R 2W 5% AXIAL FE-AD,resistencia fio 2W,215,9.10
+res015270,0R12 5W 5% AXIAL,resistencia fio 5W,100,1.98
+res015300,8R2 5W 5% AXIAL AC05,resistencia fio 5W,50,3.05
+res015330,150R 5W 5% AXIAL AC05,resistencia fio 5W,600,3.21
+res015360,2K7 5W 5% AXIAL AC05 CONSTANTA,resistencia fio 5W,150,5.72
+res015390,1R8 7W 10% AXIAL FE-AD,resistencia fio 7W,254,4.47
+res015420,220R 7W 5% AXIAL FE-AD,resistencia fio 7W,0,0.59
+res015450,RES.FIO 2R2 8W 10% AXIAL PORCELANA FE-AD,resistencia fio 8W,371,5.41
+res015480,0R86 10W 10% AXIAL FE-AD,resistencia fio 10W,49,4.41
+res015510,33R 10W 5% AXIAL AC10,resistencia fio 10W,1,5.48
+res015540,820R 10W 5% AXIAL AC10,resistencia fio 10W,5,5.45
+res015570,47K 10W 5% AXIAL DALE,resistencia fio 10W,7,7.45
+res015600,10R 15W 10% AXIAL AC15 CONSTANTA,resistencia fio 15W,0,8.13
+res015630,1K8 15W 10% AXIAL FE-AD,resistencia fio 15W,118,9.18
+res015660,0R235 20W 10% AXIAL FE-AD,resistencia fio 20W,350,5.23
+res015690,3R9 20W 10% AXAIAL FE-AD,resistencia fio 20W,18,3.54
+res015720,10R 20W 5% AXIAL AC20 CONSTANTA,resistencia fio 20W,80,4.79
+res015750,50R 20W 10% AXIAL PORCELANA FE-AD,resistencia fio 20W,17,9.34
+res015780,680R 20W 10% AXIAL FE-AD,resistencia fio 20W,103,3.58
+res015810,22K 20W 10% AXIAL FE-AD,resistencia fio 20W,16,0.33
+res015840,12R 25W 1% RH-25 C/DISSIPADOR DALE PULL,resistencia fio 25W,4,6.23
+res015870,120R 25W 10% FIXO FE-AD,resistencia fio 25W,17,1.36
+res015900,3K0 25W 10% AJUSTAVEL FE-AD,resistencia fio 25W,2,6.85
+res015930,220R 30W 10% FIXO FE-AD,resistencia fio 30W,3,0.96
+res015960,0R80 50W 10% AJUSTAVEL LONGA FE-AD,resistencia fio 50W,2,6.35
+res015990,3R9 50W 10% AJUSTAVEL FE-AD,resistencia fio 50W,27,0.94
+res016020,25R 50W 10% FIXO FE-AD,resistencia fio 50W,37,0.70
+res016050,120R 50W 10% FIXO LONGA FE-AD,resistencia fio 50W,24,6.18
+res016080,680R 50W 10% FIXO FE-AD,resistencia fio 50W,9,7.55
+res016110,RES.FIO 5K6 50W 10% FIXO LONGA FE-AD,resistencia fio 50W,200,6.58
+res016140,2R2 75W 10% AJUSTAVEL FE-AD,resistencia fio 75W,5,4.07
+res016170,550R 75W 10% AJUSTAVEL FE-AD,resistencia fio 75W,4,1.33
+res016200,100K 75W 5% FIXO FE-AD,resistencia fio 75W,7,2.73
+res016230,27R 100W 10% AJUSTAVEL FE-AD,resistencia fio 100W,3,2.89
+res016260,1K8 100W 10% FIXO FE-AD,resistencia fio 100W,6,6.43
+res016290,30R 120W 10% FIXO FE-AD,resistencia fio 120W,10,1.44
+res016320,50R 150W 10% FIXO FE-AD,resistencia fio 150W,2,2.81
+res016350,RES.FIO 47R 160W 10% FIXO FE-AD,resistencia fio 160W,5,2.61
+res016380,RES.FIO 1K5 160W 10% AJUSTAVEL FE-AD,resistencia fio 160W,13,3.98
+res016410,20R 200W 10% AJUSTAVEL FE-AD,resistencia fio 200W,1,3.24
+res016440,RES.FIO 25K 200W 10% FIXO FE-AD,resistencia fio 200W,1,2.66
+res016470,1R8 1W 5% PR01,resistencia metafilme 1W,300,1.05
+res016500,RES.METALFILME 150R 1W 5% PR01 PHILIPS,resistencia metafilme 1W,4000,3.63
+res016530,10K 1W PR37 5% GRANEL,resistencia metafilme 1W,5000,8.27
+res016560,1M 1W 5% PR37,resistencia metafilme 1W,3000,7.31
+res016590,47R 2W 5% PR02 PHILIPS PRE,resistencia metafilme 2W,1500,7.52
+res016620,820R 2W 5% PR52,resistencia metafilme 2W,250,9.90
+res016650,68K 2W 5% ,resistencia metafilme 2W,50,0.35
+res016680,75R 3W PR03 5%,resistencia metafilme 3W,200,4.40
+res016710,56K 3W PR03 5% ,resistencia metafilme 3W,500,9.72
+rob016740,MODULO CAMERA VGA ON7670 P/ ARDUINO,robotica,4,5.34
+rob016770,PROTOBOARD 400 PONTOS,robotica,10,9.54
+Var016800,S05K17V = 270KD05,Varistor,5500,6.16
+Var016830,S10K250V = 10K391,Varistor,440,2.14
+Var016860,S20K130V = 20201,Varistor,1,3.48
+Var016890,V320LA20AP = 320L20  = S14K320V GE,Varistor,500,3.13
+Ven016920,VENTILADOR RADIAL 250MM 24V 160W ROLAMENTO EBM,Ventoinhas,35,9.57
+Cap016950,WISAS9P-YJ01 GALAXY S9PLUS ARMOR TRANSPARENTE,Capa,563,2.03
